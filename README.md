@@ -1,2 +1,2 @@
-# HighTide-Modding
-HighTides mods for a bunch of different games
+# HighTide Modding
+HighTides main repo for his mods
